@@ -6,6 +6,7 @@
         "lib": [
             "es2021"
         ],
+        "outDir": "dist",
         "module": "Node16",
         "target": "es2021",
         "noUncheckedIndexedAccess": true,
